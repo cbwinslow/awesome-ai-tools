@@ -1,0 +1,27 @@
+{
+  "name": "awesome-ai-tools",
+  "version": "1.0.0",
+  "description": "> A curated list of Artificial Intelligence Top Tools > > Feel free to contribute and also submit your AI tools on [altern.ai](https://altern.ai/?utm_source=awesomeaitools) for free",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "format": "prettier . --write",
+    "test": "next build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^12.9.2",
+    "next": "^15.4.6",
+    "openai": "^5.12.2",
+    "prettier": "^3.6.2",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}

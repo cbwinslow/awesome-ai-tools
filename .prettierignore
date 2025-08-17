@@ -1,0 +1,4 @@
+DIFF_*.md
+RECOMMENDATIONS_*.md
+node_modules
+.next
